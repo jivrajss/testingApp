@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jivraj.singh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.1\39eff75ddcb987ff65888361a29f489c178429a3\okio-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\okio-1.0.1-bf11369613a06aea1a89fa0b24045bc3f1a5b959.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.0.0\afe8399d352713b66e597e9670c741d1e60ae923\okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.0.0-28511c80a7652ecff2390fdee2c0620d7d1929ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\jivraj.singh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="C:\Users\jivraj.singh\GitHubProjects\XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\okhttp-2.0.0-69df0a8a9e135a2d8b51504397c58d0e5f3b6b85.jar" />
+    </item>
+
+</items>
