@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Android XYZTouristAttractions Sample
 ===================================
@@ -145,3 +146,7 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# testingApp
+Demo 
+>>>>>>> 1a6e612f5b2f394d25e63dcf3d713717d1b02ee5

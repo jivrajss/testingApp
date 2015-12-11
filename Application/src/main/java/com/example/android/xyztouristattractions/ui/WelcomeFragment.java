@@ -26,13 +26,7 @@ public class WelcomeFragment extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.welcome_screen, container, false);
-        List<Attraction> attractions = AttractionListFragment.loadAttractionsFromLocation(Utils.getLocation(getActivity()));
-        DataModel model= new DataModel();
-        model.setAttractions(attractions);
-        String obj=new Gson().toJson(model);
-        Log.d(WelcomeFragment.class.getSimpleName(),obj);
         TextView mTextView= (TextView) view.findViewById(R.id.WelcomeTextView);
-        mTextView.setText(obj);
         return view;
     }
 }
